@@ -1,0 +1,110 @@
+h1
+{
+	background: #000FFF;
+	font-size: 150%;
+}
+
+body
+{
+	background: rgba(0,0,0,0.1);
+	font-size: 150%;
+	margin: 4%;
+}
+
+header
+{
+	background: rgba(100,100,100,0.1);
+	text-align: center;
+	padding: 20px;
+	
+}
+{
+	color: #FFF;
+}
+nav
+{
+	font-variant: small-caps;
+	font-family: Arial, "Times New Roman", serif;
+	font-size: 150%;
+}
+
+nav a
+{
+
+	display: inline-block;
+	font-weight: bold;
+	color: #ffffff;
+	background: rgba(0,0,55,0.1);
+	text-align: center;
+	width: 200px;
+	padding: 4px;
+	text-decoration: none;
+	margin: 0 auto;
+	margin-top: 10px;
+	border-radius: 10px;
+}
+
+section
+{
+	width: 30%;
+	display: inline-block;
+	float: left;
+	margin-right: 3%;
+
+}
+
+footer
+{
+	background: #FFF000;
+	clear: both;
+}
+details
+{
+	font-style: italic;
+}
+summary
+{
+	font-style: oblique;
+}
+h2
+{
+	background: #FFF000;
+	color: #666666;
+}
+
+img
+{
+	width: 75px; 
+}
+
+/*a
+{
+	display: inline-block;
+	font-weight: bold;
+	color: #ffffff;
+	background: rgba(0,255,0,0.5);
+	text-align: center;
+	width: 200px;
+	padding: 4px;
+	text-decoration: none;
+	margin: 0 auto;
+	margin-top: 10px;
+	border-radius: 10px;
+}*/
+
+a:hover
+{
+	background: #eee;
+	color: #000c66;
+}
+
+a:active
+{
+	border: 3px solid #000000;
+}
+
+ul
+{
+	list-style: none;
+	display: inline-block;
+}
